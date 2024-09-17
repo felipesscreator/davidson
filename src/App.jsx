@@ -33,11 +33,6 @@ function App() {
             alt="Presidente da UNEGRO"
             className="w-40 rounded-2xl shadow-md"
           />
-          <img
-            src="/pcdob.png"
-            alt="Presidente da PCdoB S.A."
-            className="w-40 rounded-2xl shadow-md"
-          />
         </div>
       </div>
 
